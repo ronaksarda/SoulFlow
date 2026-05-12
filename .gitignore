@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (Included as it is <100MB, but can be ignored if using LFS)
+# emotion-ferplus-8.onnx
+
+# Data/Output
+canvas_*.png
+*.png
+*.jpg
+*.jpeg
+
+# Backup/Scratch
+*.bak
+*.tmp
+temp/
