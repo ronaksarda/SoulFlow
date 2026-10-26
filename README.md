@@ -7,8 +7,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv)](https://opencv.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Tracking-00C853)](https://google.github.io/mediapipe/)
 [![ONNX Runtime](https://img.shields.io/badge/ONNX-Runtime-F36F21)](https://onnxruntime.ai/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 **Low-latency gesture recognition, emotion inference, and interactive rendering pipeline.**
 
 </div>
@@ -117,7 +115,7 @@ python main.py
 ---
 
 # 📜 License
-Distributed under the MIT License. See `LICENSE` for details.
+All rights reserved. See `LICENSE`.
 
 ---
 
